@@ -2,7 +2,6 @@ import React, { useContext, useEffect, useState } from 'react'
 import { useLocation } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom'
 import BlogDetails from '../components/BlogDetails';
-import Header from '../components/Header'
 import { AppContext } from '../context/AppContext';
 
 
